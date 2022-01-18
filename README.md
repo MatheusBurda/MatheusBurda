@@ -3,6 +3,7 @@
 * I'm a Computer Engineer student at Technological Federal University of Paraná.
 * I'm passionate about programming, electronics and now started mountain biking:bicyclist:.
 * I'm currently learning web development.
+* I'm 22 years old and live in Curitiba - Paraná, Brazil.
 * ⚡ Fun fact: When I was 8yo I held an alligator's tail to take a picture.
 
 ## How to reach me:
@@ -25,4 +26,4 @@
 [4]: matheusburda@gmail.com
 [5]: https://matheusburda.github.io/
 
-## Here you can find some of my projects:
+### Here you can find some of my projects:
