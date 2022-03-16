@@ -1,6 +1,6 @@
 # Hi there, I'm Matheus Burda
 
-* I'm a Computer Engineer student at Technological Federal University of Paraná.
+* I'm a Computer Engineering student at Technological Federal University of Paraná.
 * I'm passionate about programming, electronics and now started mountain biking:bicyclist:.
 * I'm currently learning web development.
 * I'm 22 years old and live in Curitiba - Paraná, Brazil.
