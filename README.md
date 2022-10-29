@@ -3,7 +3,7 @@
 * I'm a Computer Engineering student at Technological Federal University of Paraná.
 * I'm passionate about programming, electronics and now started mountain biking:bicyclist:.
 * I'm currently learning web development.
-* I'm 22 years old and live in Curitiba - Paraná, Brazil.
+* I'm 23 years old and live in Curitiba - Paraná, Brazil.
 * ⚡ Fun fact: When I was 8yo I held an alligator's tail to take a picture.
 
 ## How to reach me:
