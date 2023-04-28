@@ -26,4 +26,4 @@
 [4]: matheusburda@gmail.com
 [5]: https://matheusburda.github.io/
 
-### Here you can find some of my projects:
+### Here you can checksome of my projects:
